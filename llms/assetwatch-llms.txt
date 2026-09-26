@@ -1,0 +1,100 @@
+# AssetWatch
+
+> AssetWatch is a predictive maintenance and condition monitoring software platform that combines wireless IoT sensors, AI-powered analytics, and expert human oversight to help industrial manufacturers prevent unplanned downtime and extend equipment life.
+
+AssetWatch serves maintenance and reliability teams across heavy industry. The platform monitors rotating equipment in real time — detecting early signs of failure in motors, pumps, fans, gearboxes, compressors, and more — and delivers prioritized alerts with recommended actions. Services include continuous vibration monitoring, route-based vibration analysis, oil analysis, and CMMS integration.
+
+## Core Product & Platform
+
+- [Continuous Vibration Monitoring](https://www.assetwatch.com/solutions/vibration-continuous): Wireless, always-on vibration monitoring for rotating assets
+- [Route-Based Vibration Analysis](https://www.assetwatch.com/solutions/vibration-route-based-analysis): Periodic vibration data collection and expert analysis
+- [Oil Analysis](https://www.assetwatch.com/solutions/oil-analysis): Lubricant testing and fluid health monitoring to detect wear and contamination
+- [CMMS Integration](https://www.assetwatch.com/solutions/cmms): Connecting condition monitoring alerts directly to work order workflows
+- [AssetWatch Software](https://www.assetwatch.com/software): The AssetWatch platform — dashboards, alerts, asset health scoring, and reporting
+- [Predictive Maintenance AI](https://www.assetwatch.com/predictive-maintenance-ai): How AssetWatch uses AI and machine learning to detect failures before they occur
+- [Asset Saves](https://www.assetwatch.com/asset-saves): Real customer saves — equipment failures caught and avoided by AssetWatch
+
+## Industries
+
+- [Food & Beverage](https://www.assetwatch.com/industry/food-beverage): Predictive maintenance for food and beverage manufacturing
+- [Chemicals](https://www.assetwatch.com/industry/chemicals): Condition monitoring for chemical processing plants
+- [Metals Processing](https://www.assetwatch.com/industry/metals-processing): Asset reliability for steel, aluminum, and metals manufacturing
+- [Mining & Materials](https://www.assetwatch.com/industry/mining-materials): Predictive maintenance for mining equipment and bulk materials handling
+- [Pulp, Paper & Packaging](https://www.assetwatch.com/industry/pulp-paper-packaging): Uptime solutions for paper mills and packaging operations
+- [Plastics](https://www.assetwatch.com/industry/plastic): Condition monitoring for plastics and rubber manufacturing
+- [Pharmaceutical & Healthcare](https://www.assetwatch.com/industry/pharmaceutical-healthcare): Equipment reliability in regulated manufacturing environments
+- [Forestry](https://www.assetwatch.com/industry/forestry): Predictive maintenance for sawmills and wood products facilities
+- [Water & Wastewater](https://www.assetwatch.com/industry/water-wastewater): Asset health monitoring for water treatment and utility operations
+
+## Case Studies
+
+- [Food & Beverage Transformation](https://www.assetwatch.com/casestudies/food-beverage-transformation): Manufacturer eliminates reactive maintenance with AssetWatch
+- [Improving Dairy Operations](https://www.assetwatch.com/casestudies/improving-dairy-operations): Dairy facility improves uptime through continuous monitoring
+- [Boise Cascade](https://www.assetwatch.com/casestudies/boise-cascade): Forest products manufacturer scales predictive maintenance program
+- [Worthington Delta — Vibration](https://www.assetwatch.com/casestudies/worthington-delta): Steel manufacturer catches critical failures with vibration monitoring
+- [Worthington Delta — Oil Analysis](https://www.assetwatch.com/casestudies/worthington-delta-oil-analysis): Oil analysis uncovers hidden equipment wear at a steel facility
+- [Worthington Proactive](https://www.assetwatch.com/casestudies/worthington-proactive): Proactive maintenance culture shift at Worthington Steel
+- [Plastic Film Manufacturer](https://www.assetwatch.com/casestudies/plastic-film-manufacturer): Preventing extruder failures in plastics production
+- [Cement Manufacturer](https://www.assetwatch.com/casestudies/cement-manufacturer): Condition monitoring improves reliability at a cement plant
+- [Ammonia Compressor](https://www.assetwatch.com/casestudies/ammonia-compressor): Critical compressor failure detected before catastrophic breakdown
+- [Wood Products](https://www.assetwatch.com/casestudies/wood-products): Predictive maintenance in a wood products manufacturing facility
+- [Arbec Miramichi](https://www.assetwatch.com/casestudies/arbec-miramichi): Sawmill improves asset reliability with wireless monitoring
+- [Baghouses](https://www.assetwatch.com/casestudies/baghouses): Dust collector fan failures caught before unplanned downtime
+
+## Blog — Featured Posts
+
+- [What Is Predictive Maintenance?](https://www.assetwatch.com/blog/pdm-maintenance): Overview of predictive maintenance strategy and benefits
+- [Predictive vs. Preventive Maintenance](https://www.assetwatch.com/blog/preventive-vs-predictive-maintenance): Comparing maintenance strategies and when to use each
+- [Predictive Maintenance ROI](https://www.assetwatch.com/blog/predictive-maintenance-roi): How to calculate and demonstrate ROI from a PdM program
+- [AI and Predictive Maintenance](https://www.assetwatch.com/blog/artificial-intelligence-predictive-maintenance): How AI is transforming maintenance in industrial operations
+- [Types of Bearing Failures](https://www.assetwatch.com/blog/types-of-bearing-failures): 12 common bearing failure modes and how to detect them early
+- [Vibration Analysis Equipment](https://www.assetwatch.com/blog/vibration-analysis-equipment): Guide to vibration monitoring tools and technologies
+- [Unlocking the Power of Vibration Monitoring](https://www.assetwatch.com/blog/unlocking-the-power-of-vibration-monitoring-and-analysis): How vibration analysis works and what it reveals
+- [Route-Based vs. Continuous Vibration Monitoring](https://www.assetwatch.com/blog/route-based-and-continuous-vibration-monitoring-why-you-need-both): Why combining both approaches improves coverage
+- [Understanding Oil Analysis](https://www.assetwatch.com/blog/understanding-oil-analysis): What oil analysis measures and why it matters for asset health
+- [Condition Monitoring ROI](https://www.assetwatch.com/blog/conditioning-monitoring-roi): Making the business case for condition monitoring investment
+- [Condition Monitoring Examples](https://www.assetwatch.com/blog/condition-monitoring-examples): Real-world applications of condition monitoring across industries
+- [How to Reduce Downtime in Manufacturing](https://www.assetwatch.com/blog/5-tips-to-reduce-downtime-in-manufacturing): Practical strategies for minimizing unplanned downtime
+- [Manufacturing Downtime](https://www.assetwatch.com/blog/manufacturing-downtime): Causes, costs, and solutions for downtime in manufacturing
+- [Predictive Maintenance for Food & Beverage](https://www.assetwatch.com/blog/predictive-maintenance-solving-food-beverage-industrys-challenges): Addressing food manufacturing's unique maintenance challenges
+- [Predictive Maintenance for Mining](https://www.assetwatch.com/blog/predictive-maintenance-mining-equipment): Keeping heavy mining equipment running with PdM
+- [Predictive Maintenance for Packaging](https://www.assetwatch.com/blog/predictive-maintenance-for-packaging): Uptime strategies for packaging lines
+- [Scaling PdM Across Multiple Sites](https://www.assetwatch.com/blog/scaling-predictive-maintenance-across-multiple-sites): How multi-plant organizations deploy predictive maintenance at scale
+- [Why Predictive Maintenance Fails](https://www.assetwatch.com/blog/why-predictive-maintenance-fails): Common pitfalls and how to avoid them
+- [Predictive Maintenance Implementation](https://www.assetwatch.com/blog/predictive-maintenance-implementation): Step-by-step guide to launching a PdM program
+- [Machine Learning and Predictive Maintenance](https://www.assetwatch.com/blog/machine-learning-predictive-maintenance): How ML models detect anomalies in equipment data
+- [IoT and Predictive Maintenance](https://www.assetwatch.com/blog/iot-and-predictive-maintenance): The role of connected sensors in modern maintenance programs
+- [Overall Equipment Effectiveness (OEE)](https://www.assetwatch.com/blog/overall-equipment-effectiveness): Understanding OEE and how PdM improves it
+- [Tracking Maintenance KPIs](https://www.assetwatch.com/blog/tracking-maintenance-kpis-predictive-maintenance): Key metrics for measuring maintenance program performance
+- [Vibration Sensors](https://www.assetwatch.com/blog/vibration-sensors): How wireless vibration sensors work and what to look for
+
+## Resources & Knowledge Center
+
+- [Knowledge Center](https://www.assetwatch.com/knowledge-center): Hub for AssetWatch guides, ebooks, webinars, and white papers
+- [Predictive Maintenance Guide](https://www.assetwatch.com/resources/predictive-maintenance-guide): Comprehensive introduction to predictive maintenance
+- [Choosing the Right PdM Solution — Checklist](https://www.assetwatch.com/resources/choosing-the-right-predictive-maintenance-solution-checklist): Evaluation criteria for selecting a condition monitoring platform
+- [The AssetWatch Solution Overview](https://www.assetwatch.com/resources/the-assetwatch-solution): Product overview and platform capabilities
+- [Reactive to Predictive Maintenance](https://www.assetwatch.com/resources/reactive-to-predictive-maintenance): How to transition from reactive to predictive maintenance
+- [CMMS + Condition Monitoring Integration](https://www.assetwatch.com/resources/achieving-ideal-state-maintenance-condition-monitoring-cmms-integration): Guide to connecting PdM data with work order systems
+- [Combining Vibration and Oil Analysis](https://www.assetwatch.com/resources/combining-vibration-and-oil-analysis): Why using both technologies improves fault detection
+- [Oil Analysis in Action](https://www.assetwatch.com/resources/oil-analysis-in-action-avoiding-common-pitfalls-protecting-your-equipment): Common oil analysis mistakes and how to avoid them
+- [Maintenance KPIs That Matter](https://www.assetwatch.com/resources/maintenance-kpis-that-matter): Which KPIs to track and how to benchmark performance
+- [Food & Beverage PdM Guide](https://www.assetwatch.com/resources/food-beverage-ebook-predictive-maintenance-guide): Industry-specific ebook for food and beverage manufacturers
+- [Water & Wastewater PdM Guide](https://www.assetwatch.com/resources/water-wastewater-predictive-maintenance-ebook): Condition monitoring for water treatment facilities
+- [Chemical Industry PdM Guide](https://www.assetwatch.com/resources/chemical-industry-predictive-maintenance-ebook-manufacturers): PdM strategies for chemical manufacturing
+- [Forestry & Building Materials Guide](https://www.assetwatch.com/resources/forestry-building-materials-predictive-maintenance-guide): Reliability strategies for wood products and building materials
+- [Packaging Industry PdM Guide](https://www.assetwatch.com/resources/packaging-industry-ebook-guide-predictive-maintenance): Predictive maintenance for packaging operations
+- [Supercharging CMMS with PdM](https://www.assetwatch.com/resources/supercharging-cmms-predictive-maintenance-ebook): How to maximize CMMS value with condition monitoring data
+- [Why PdM Drives Value in Any Economy](https://www.assetwatch.com/resources/why-predictive-maintenance-drives-value-in-any-economy-whitepaper): White paper on the business case for predictive maintenance
+- [Vibration Technical Specifications](https://www.assetwatch.com/resources/vibration-technical-specifications-sheet): Sensor specs and technical details for AssetWatch vibration hardware
+- [Testimonials](https://www.assetwatch.com/testimonials): Customer testimonials and success stories
+
+## Company
+
+- [About AssetWatch](https://www.assetwatch.com): Predictive maintenance platform for industrial manufacturers
+- [Our Team](https://www.assetwatch.com/our-team): Leadership and team behind AssetWatch
+- [News](https://www.assetwatch.com/news): Press releases, funding announcements, and company milestones
+- [Partnerships](https://www.assetwatch.com/partnerships): Technology and channel partner ecosystem
+- [Sustainability](https://www.assetwatch.com/sustainability): AssetWatch's environmental impact and sustainability initiatives
+- [Contact](https://www.assetwatch.com/contact): Contact AssetWatch
+- [Get Started](https://www.assetwatch.com/get-started): Request a demo or start a conversation with AssetWatch

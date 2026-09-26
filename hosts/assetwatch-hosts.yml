@@ -1,0 +1,81 @@
+generated: '2026-09-26'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 5
+  own: 5
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - other
+  - sandbox
+  - website
+hosts:
+- host: api.assetwatch.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: assetwatch.com
+  role: api
+  relation: own
+- host: app.assetwatch.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: assetwatch.com
+  role: other
+  relation: own
+- host: sandbox.assetwatch.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: assetwatch.com
+  role: sandbox
+  relation: own
+- host: trust.assetwatch.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - TrustCenter
+  serves: []
+  registrable_domain: assetwatch.com
+  role: other
+  relation: own
+- host: www.assetwatch.com
+  found_by:
+  - pointer
+  - apis[]
+  - probed
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - TermsOfService
+  - PrivacyPolicy
+  - Newsroom
+  - GettingStarted
+  - Blog
+  - Website
+  serves:
+  - docs
+  - cdn
+  vendor: cloudflare
+  registrable_domain: assetwatch.com
+  role: website
+  relation: own

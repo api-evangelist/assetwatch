@@ -1,23 +1,98 @@
 aid: assetwatch
+
 name: AssetWatch
-description: 'AssetWatch is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/63218ae5858431d054be1093/63d2d51d19229c2fc32a7d1b_opengraph-assetwatch.jpg
+
+description: AssetWatch provides advanced asset condition monitoring and predictive maintenance solutions for industrial plants. Their platform
+  combines vibration analysis, oil analysis, AI-driven insights, and human expertise to help organizations reduce unplanned downtime, improve
+  reliability, and optimize maintenance strategies across various industries such as chemicals, food & beverage, metals, mining, and more.
+
 url: https://raw.githubusercontent.com/api-evangelist/assetwatch/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-26 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-26'
+
 modified: '2026-09-26'
+
 tags:
 - Company
-apis: []
+- Asset Management
+- Predictive Maintenance
+- Industrial IoT
+- Monitoring
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/assetwatch-llms.txt
+- type: Hosts
+  url: hosts/assetwatch-hosts.yml
+- type: Vendors
+  url: vendors/assetwatch-vendors.yml
+- type: TrustCenter
+  url: https://trust.assetwatch.com/
+- type: TermsOfService
+  url: https://www.assetwatch.com/msa/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.assetwatch.com/privacy-policy
+- type: Newsroom
+  url: https://www.assetwatch.com/news
+- type: GettingStarted
+  url: https://www.assetwatch.com/get-started
+- type: Blog
+  url: https://www.assetwatch.com/blog
+- type: DomainSecurity
+  url: security/assetwatch-domain-security.yml
 - type: Website
-  url: https://forgeglobal.com/assetwatch_stock/
+  url: https://www.assetwatch.com/
+
+apis:
+- name: AssetWatch API
+  description: AssetWatch provides an API for asset condition monitoring and predictive maintenance data.
+  humanURL: https://www.assetwatch.com/
+  baseURL: null
+  x-coverage:
+    state: unreadable
+    reason: no-machine-readable-spec
+    detail: All attempts to fetch OpenAPI specifications from https://api.assetwatch.com returned 403 authentication required, and no other spec
+      formats were discovered.
+    evidence:
+    - url: https://api.assetwatch.com/openapi.json
+      status: 403
+    - url: https://api.assetwatch.com/openapi.yaml
+      status: 403
+    checked: 2026-09-26
+  aid: assetwatch:assetwatch-api
+
+x-coverage:
+  state: none
+  reason: no-developer-program
+  method: derived
+  generated: '2026-09-26'
+  generator: derive-coverage.py (pre-flight evidence)
+  detail: the company publishes no developer documentation host and no machine-readable contract on its own domain
+  evidence:
+  - url: https://api.assetwatch.com/mcp
+    status: 403
+  - url: https://forgeglobal.com/assetwatch_stock/
+    status: 403
+x-enrichment:
+  date: '2026-09-26'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
