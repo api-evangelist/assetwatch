@@ -1,0 +1,14 @@
+{
+  "repo": "assetwatch",
+  "feeds": [
+    {
+      "source": "https://www.assetwatch.com/get-started",
+      "feed_url": "https://www.assetwatch.com/get-started",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-03T12:30:02Z"
+}
